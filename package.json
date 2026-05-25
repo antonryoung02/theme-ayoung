@@ -1,0 +1,21 @@
+{
+    "name": "themeayoung",
+    "displayName": "ThemeAYoung",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.105.1"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "theme-ayoung",
+                "uiTheme": "vs-dark",
+                "path": "./themes/theme-ayoung-color-theme.json"
+            }
+        ]
+    }
+}
